@@ -1,0 +1,4 @@
+# Don't want any csv or xml files being loaded in the git repository
+
+*.csv
+*.xml
