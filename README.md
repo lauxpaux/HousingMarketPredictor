@@ -6,7 +6,7 @@
 ## Introduciton
 In this project we explore historical housing data and construct predictive modeling to predict housing prices with the hopes of capturing the decline in the current (2024) housing market. 
 
-The data can be found in the following [location]().
+The data can be found in the following [location](https://drive.google.com/file/d/1sNm33rOHkcqPwb1QA_JnLT2VFlOlnPW7/view?usp=drive_link).
 
 ## Data Dictionary
 TBC
